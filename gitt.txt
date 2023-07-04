@@ -1,0 +1,1 @@
+Since you are learning Git, know that this has little to do with git but with the text editor configured for use. In vim, you can press i to start entering text and save by pressing esc and :wq and enter, this will commit with the message you typed. In your current state, to just come out without committing, you can do :q instead of the :wq as mentioned above.
